@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Pages To Images"
+  short_description: "Export paged HTML slides as images"
+  default_prompt: "Use $html-pages-to-images to export this paged HTML presentation into one image per page."

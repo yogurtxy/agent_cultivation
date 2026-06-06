@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown To Paged HTML"
+  short_description: "Turn Markdown into compact paged HTML reports"
+  default_prompt: "Use $markdown-to-paged-html to convert this Markdown into a compact vertical paged HTML report while preserving structure, tables, links, and code."
